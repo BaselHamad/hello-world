@@ -1,2 +1,2 @@
 # hello-world
-An assignment for Infost 240
+An assignment for Infost 240 :)
